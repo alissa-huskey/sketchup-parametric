@@ -29,12 +29,17 @@ zip parametric.rbz parametric parametric.rb
 
 View the [CHANGELOG](CHANGELOG.md) for details.
 
+## Credits
+
+Generated using the [SketchUp Extension][generator-sketchup-extension] generator for [Yeoman][yeoman].
+
 ## License
 
 Released under the MIT license.
 
 Alissa Huskey © 2022
 
-## Etcetera
 
-Generated using the SketchUp Extension yeoman generator.
+[generator-sketchup-extension]: https://github.com/alissa-huskey/generator-sketchup-extension
+[yeoman]: http://yeoman.io
+
