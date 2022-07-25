@@ -1,0 +1,6 @@
+{
+  "generator-sketchup-extension": {
+    "debug": false,
+    "sketchup_version": "22"
+  }
+}
